@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Aici vor fi notite...
 =======
 ## Notițe
