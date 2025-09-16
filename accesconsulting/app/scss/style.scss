@@ -1,0 +1,147 @@
+@import "vars";
+@import "fonts";
+@import "reset";
+@import "libs";
+@import "global";
+
+// Audit Intern
+.audit-intern {
+    color: $white;
+    min-height: 100vh;
+    background-image: url("../images/src/audit-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    &__title {
+        font-size: 36px;
+        line-height: 50px;
+        margin-bottom: 30px;
+        padding-bottom: 30px;
+        position: relative;
+    }
+
+    &__title::before {
+        content: "";
+        width: 200px;
+        height: 5px;
+        background-color: #0d469d;
+        position: absolute;
+        left: 0;
+        top: 100%;
+        border-radius: 4px;
+    }
+
+    &__text {
+        font-size: 18px;
+        line-height: 28px;
+        max-width: 670px;
+    }
+
+    &__text+&__text {
+        margin-top: 30px;
+    }
+}
+
+.audit-finance__list,
+.audit-resurse__list {
+    list-style: inside;
+}
+
+// Tabs
+.tab-content {
+    display: none;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+.tab-wrapper {
+    width: 100%;
+    min-height: 600px;
+    margin: 40px auto;
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    background-color: #fff;
+    padding: 20px;
+}
+
+.tabs {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.tab-btn {
+    cursor: pointer;
+    flex: 1;
+    padding: 10px 0;
+    border: none;
+    background-color: #f3f3f3;
+    border-radius: 8px 8px 0 0;
+    font-weight: 500;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.tab-btn.active {
+    font-size: 24px;
+    padding: 30px;
+    border-radius: 10px;
+    color: $white;
+    background-color: #0d469d;
+    border: none;
+}
+
+// Form fields
+
+.tab-content__box {
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.tab-content__box label {
+    font-size: 14px;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.tab-content__box input,
+.tab-content__box select {
+    padding: 8px 12px;
+    font-size: 14px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    outline: none;
+    transition: border-color 0.3s;
+}
+
+.tab-content__box input:focus {
+    border-color: $black;
+}
+
+.tab-content__box select:focus {
+    border-color: $black;
+}
+
+.tab-content button {
+    cursor: pointer;
+    padding: 10px 15px;
+    background-color: #2f80ed;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: 500;
+    transition: all 0.3s;
+    margin-bottom: 20px;
+    &:hover {
+        background-color: $black;
+    }
+}
+.tab-content__sum{
+    font-size: 20px;
+}
