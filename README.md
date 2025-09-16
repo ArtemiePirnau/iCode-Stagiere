@@ -4,7 +4,7 @@ Documentarea stagiului meu la iCode, incluzând proiecte, mini-proiecte și noti
 
 ## Structura repository-ului
 
-- `ICODE/` -> proiecte la care am lucrat în timp-ul stagierei
+- `/..` -> proiecte la care am lucrat în timp-ul stagierei
 - `NOTES/` -> notițe, etc
 
 ## Proiecte la care am lucrat:
