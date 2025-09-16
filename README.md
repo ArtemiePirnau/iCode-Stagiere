@@ -19,6 +19,10 @@ Apoi am adăugat niște stil-uri folosind SCSS (CSS preprocesor) și am făcut c
 
 Pe la sfârșit de zi am scris JavaScript script pentru tab-uri și am început logica pentru funcții de calcul: Funcția 1: care estimează câte salarii sau câți angajați sunt necesari pentru un anumit volum de muncă sau producție, în funcție de tipul activității, Funcția 2: 2 estimează totalul costurilor / venitului / sumei aferente unui anumit număr de contracte și angajați. (are bug-uri încă)
 
+Am mai făcut cunoștință cu așa soft ca Ngrok - te ajută să deschizi server-ul local pentru acces public.
+
 ## 2 zi (16 septembrie)
 
 Am continuat și finisat ambele Funcții (1 și 2). Urmează lucrul cu WordPress...
+
+Și a mai apărut FileZilla, trebuie de înțeles cum să lucrez cu acest soft
