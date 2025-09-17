@@ -26,3 +26,12 @@ Am mai făcut cunoștință cu așa soft ca Ngrok - te ajută să deschizi serve
 Am continuat și finisat ambele Funcții (1 și 2). Urmează lucrul cu WordPress...
 
 Și a mai apărut FileZilla, trebuie de înțeles cum să lucrez cu acest soft
+
+## 3 zi (17 septembrie)
+
+Totuși m-am întorc eu la celea funcții și le-am terminat cu totul. 
+
+După am lucrat cu WordPress în mare parte. Am adăugat conținut pe păgini și stil-uri.
+
+
+Am conectat Bootstrap la WP, folosind FileZilla și am adaugat componente din Bootstrap.
