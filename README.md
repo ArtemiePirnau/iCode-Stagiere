@@ -29,9 +29,18 @@ Am continuat și finisat ambele Funcții (1 și 2). Urmează lucrul cu WordPress
 
 ## 3 zi (17 septembrie)
 
-Totuși m-am întorc eu la celea funcții și le-am terminat cu totul. 
+Totuși m-am întors eu la celea funcții și le-am terminat cu totul. 
 
 După am lucrat cu WordPress în mare parte. Am adăugat conținut pe păgini și stil-uri.
 
 
 Am conectat Bootstrap la WP, folosind FileZilla și am adaugat componente din Bootstrap.
+
+## 4 zi (18 septembrie)
+
+Am continuat lucru la pagina Audit și încercam să-i găsesc text și UI potrivit toată ziua
+
+## 5 zi (19 septembrie)
+
+Am început să studies WordPress serios și am început un proiect personal pentru practicarea WP.
+
